@@ -1,0 +1,1 @@
+This is a C demo of a Multiplication Table Quiz made in C by me when I was the 7th grade, and I made it for my little brother to help him learn multiplication.
